@@ -1,0 +1,19 @@
+{
+  "name": "data-formater-select",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lujianxiang102233/data-formater-select.git"
+  },
+  "author": "luhelen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lujianxiang102233/data-formater-select/issues"
+  },
+  "homepage": "https://github.com/lujianxiang102233/data-formater-select#readme"
+}
